@@ -1,0 +1,2 @@
+Na forma aleatória aparenta ressaltar a eficiência dos algoritmos de ordenação QUICK e MERGE
+para Arrays(vetores) de todos tamanhos com uma adendo para o Bolha que é muito e eficiente em valores pequenos abaixo de 40 000. 

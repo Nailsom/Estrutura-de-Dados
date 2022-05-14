@@ -1,0 +1,1 @@
+Na forma decrescente aparenta haver um comportamento anárquico nas ordenações que não são com o algorítimo Merge, que se mantêm firme em praticamente em todos os tamanhos de Array, com uma margem de tempo bem baixa entre as comparações.
